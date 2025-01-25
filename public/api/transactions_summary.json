@@ -1,0 +1,12 @@
+{
+    "monthlyIncome": 5000.00,
+    "monthlyExpenses": 236.25,
+    "savings": 4763.75,
+    "budgetAlerts": [
+      {
+        "category": "Food",
+        "status": "warning",
+        "message": "Approaching monthly budget limit"
+      }
+    ]
+  }

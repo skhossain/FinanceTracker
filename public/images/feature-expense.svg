@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F3F4F6" x="0" y="0" width="400" height="400"/>
+        <!-- Receipt Design -->
+        <rect fill="#FFFFFF" x="100" y="50" width="200" height="300" rx="8"/>
+        <g transform="translate(120, 70)">
+            <rect fill="#E0E7FF" x="0" y="0" width="160" height="20" rx="4"/>
+            <rect fill="#E0E7FF" x="0" y="40" width="160" height="20" rx="4"/>
+            <rect fill="#E0E7FF" x="0" y="80" width="160" height="20" rx="4"/>
+            <rect fill="#4F46E5" x="0" y="120" width="80" height="40" rx="4"/>
+        </g>
+    </g>
+</svg>

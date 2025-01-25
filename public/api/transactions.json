@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "date": "2025-01-21",
+    "description": "Grocery Shopping",
+    "category": "Food",
+    "amount": -150.75,
+    "type": "expense"
+  },
+  {
+    "id": "2",
+    "date": "2025-01-20",
+    "description": "Salary Deposit",
+    "category": "Income",
+    "amount": 5000.00,
+    "type": "income"
+  },
+  {
+    "id": "3",
+    "date": "2025-01-19",
+    "description": "Electric Bill",
+    "category": "Utilities",
+    "amount": -85.50,
+    "type": "expense"
+  }
+]
+  

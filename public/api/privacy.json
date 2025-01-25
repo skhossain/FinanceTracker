@@ -1,0 +1,30 @@
+{
+    "title": "Privacy Policy",
+    "subtitle": "Your Privacy Matters",
+    "intro": {
+        "heading": "Protecting Your Personal Information",
+        "content": "At FinanceTracker, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your information."
+    },
+    "privacyPractices": [
+        {
+            "title": "Information Collection",
+            "description": "We collect personal information when you register, use our services, or interact with us."
+        },
+        {
+            "title": "Data Usage",
+            "description": "Your information is used to provide and improve our services, communicate with you, and personalize your experience."
+        },
+        {
+            "title": "Data Security",
+            "description": "We implement industry-standard security measures to protect your information from unauthorized access."
+        }
+    ],
+    "userRights": {
+        "heading": "Your Rights",
+        "content": "You have the right to access, correct, or delete your personal information at any time."
+    },
+    "callToAction": {
+        "heading": "Questions or Concerns?",
+        "content": "If you have any questions about our privacy practices, please contact us."
+    }
+}

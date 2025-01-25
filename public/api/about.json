@@ -1,0 +1,45 @@
+{
+    "title": "About FinanceTracker",
+    "subtitle": "Your Ultimate Personal Finance Management Tool",
+    "heroImage": "https://images.pexels.com/photos/4386482/pexels-photo-4386482.jpeg",
+    "intro": {
+      "heading": "Why Choose FinanceTracker?",
+      "content": "FinanceTracker is a cutting-edge personal finance management platform that empowers you to take control of your finances. From budgeting to expense tracking, we offer a comprehensive suite of tools designed to simplify your financial life and help you achieve your monetary goals."
+    },
+    "features": [
+      {
+        "title": "Smart Expense Tracking",
+        "description": "Automatically categorize and track your expenses in real time for better insights."
+      },
+      {
+        "title": "Budget Management",
+        "description": "Set up, manage, and adjust budgets effortlessly with detailed visual insights."
+      },
+      {
+        "title": "Financial Insights",
+        "description": "Receive tailored insights and recommendations to improve your financial health."
+      }
+    ],
+    "testimonials": [
+      {
+        "user": "Sarah J.",
+        "feedback": "Using FinanceTracker transformed how I manage my finances. It’s user-friendly and provides valuable insights!"
+      },
+      {
+        "user": "Mark P.",
+        "feedback": "I’ve achieved my savings goal faster than expected, thanks to the budgeting tools in FinanceTracker."
+      }
+    ],
+    "callToAction": {
+      "heading": "Join FinanceTracker Today",
+      "content": "Take the first step towards better financial management. Sign up and enjoy powerful tools that make managing money a breeze.",
+      "buttonText": "Get Started",
+      "buttonLink": "/auth/register"
+    },
+    "additionalImages": [
+      "https://images.pexels.com/photos/4386474/pexels-photo-4386474.jpeg",
+      "https://images.pexels.com/photos/4386471/pexels-photo-4386471.jpeg", 
+      "https://images.pexels.com/photos/4386472/pexels-photo-4386472.jpeg"
+    ]
+  }
+  

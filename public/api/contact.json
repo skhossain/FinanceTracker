@@ -1,0 +1,23 @@
+{
+    "title": "Contact Us",
+    "subtitle": "We're Here to Help",
+    "intro": {
+        "heading": "Get in Touch",
+        "content": "If you have any questions, feedback, or need assistance, feel free to reach out to us. We're here to help you with your personal finance journey."
+    },
+    "contactInfo": {
+        "email": "support@financetracker.com",
+        "phone": "+1 (555) 123-4567",
+        "address": "123 Finance St, Money City, CA 90210"
+    },
+    "form": {
+        "namePlaceholder": "Your Name",
+        "emailPlaceholder": "Your Email",
+        "messagePlaceholder": "Your Message",
+        "submitButtonText": "Send Message"
+    },
+    "callToAction": {
+        "heading": "We Value Your Feedback",
+        "content": "Your thoughts are important to us. Please don't hesitate to reach out!"
+    }
+}
