@@ -22,7 +22,7 @@ const PrivacyPage = async () => {
     <div className="mx-auto p-6 bg-gradient-to-r from-blue-100 via-gray-50 to-blue-100 rounded-xl shadow-lg">
       <h1 className="text-5xl font-extrabold text-center mb-4">{privacyData.title}</h1>
       <h2 className="text-3xl font-semibold text-center mb-2">{privacyData.subtitle}</h2>
-      <p className="text-lg text-gray-700 text-center mb-6">{privacyData.intro.content}</p>
+      <p className="text-lg text-gray-700 text-justify mb-6">{privacyData.intro.content}</p>
       
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
         {privacyData.privacyPractices.map((practice: { title: string; description: string }, index: number) => (
